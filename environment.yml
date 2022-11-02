@@ -21,7 +21,7 @@ dependencies:
   - seaborn=0.11.2
   - vega_datasets=0.9.0
   - vega=3.6.0
-  - geopandas=0.11.1
+  - geopandas=0.10.2
   - shapely=1.8.4
   - descartes=1.1.0
   - pyepsg=0.4.0
@@ -69,7 +69,7 @@ dependencies:
   - kneed=0.7.0
   - pip:
       - us==2.0.2
-      - git+https://github.com/SergeyPirogov/webdriver_manager@dc73f4a2
+      - webdriver_manager==3.8.4
       - jupyter-panel-proxy==0.1.0
       - jupyter-server-proxy==3.2.1
       - pygeckodriver==0.31.0
